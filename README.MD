@@ -97,4 +97,4 @@ offline, queried cheaply at runtime.
   extraction only for those, instead of any full-corpus rebuild.
 
 
-The problem I got was because of Gemini issue
+The problem faced was because of **Gemini API Quota** Issue.
